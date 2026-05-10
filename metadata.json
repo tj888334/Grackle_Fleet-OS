@@ -1,0 +1,6 @@
+{
+  "name": "Aeronautics Fleet OS",
+  "description": "CC:Tweaked aerospace project OS controlling modular vehicles using Create Mod and Create Aeronautics, written in Lua.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
